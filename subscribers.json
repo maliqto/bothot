@@ -1,0 +1,12 @@
+{
+  "7330315104": {
+    "user_id": "7330315104",
+    "plan_type": "vip_semanal",
+    "plan_name": "Semanal",
+    "amount": "10",
+    "start_date": "2025-03-12 10:24:05",
+    "expiry_date": "2025-03-19 10:24:05",
+    "payment_id": 104510051399,
+    "is_active": true
+  }
+}
